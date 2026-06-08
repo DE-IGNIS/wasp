@@ -67,10 +67,10 @@ This project demonstrates the power of modern web animations and interactions, c
 
 | Detail | Information |
 |--------|-------------|
-| Name | Mausam Kar |
-| Website | [mausam03.vercel.app](https://mausam03.vercel.app/) |
-| Email | mausamkumkar@gmail.com |
-| Phone | +91 86385 45574 |
+| Name | DE-IGNIS |
+| Website | []() |
+| Email |  |
+| Phone |  |
 
 ## 💡 About
 
@@ -86,5 +86,5 @@ The website combines creativity with interactivity to deliver a seamless, engagi
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Mausam Kar</sub>
+  <sub>Built with ❤️ by Darsyn</sub>
 </div> 
