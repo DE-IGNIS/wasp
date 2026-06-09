@@ -13,27 +13,14 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge" alt="Responsive"/>
-  <img src="https://img.shields.io/badge/Animation-3D-blue?style=for-the-badge" alt="Animation"/>
-</div>
-
 > A fully responsive 3D animated website showcasing creative interactions and animations using GSAP (GreenSock Animation Platform).
 
 ## 📋 Table of Contents
-- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Purpose](#-project-purpose)
 - [Author](#-author)
 - [About](#-about)
-
-## 🔗 Live Demo
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/mausam-gsap-animation/deploys)
-
-[View Live Site →](https://mausam-gsap-animation.netlify.app/)
 
 ## ✨ Features
 
