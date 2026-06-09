@@ -19,7 +19,6 @@
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Purpose](#-project-purpose)
-- [Author](#-author)
 - [About](#-about)
 
 ## ✨ Features
@@ -49,15 +48,6 @@ This project demonstrates the power of modern web animations and interactions, c
 - 🎨 Enhanced visual appeal
 - 🤝 Intuitive user experience
 - 📱 Responsive design principles
-
-## 👤 Author
-
-| Detail | Information |
-|--------|-------------|
-| Name | DE-IGNIS |
-| Website | []() |
-| Email |  |
-| Phone |  |
 
 ## 💡 About
 
