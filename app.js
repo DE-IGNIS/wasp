@@ -14,18 +14,30 @@ const scene = new THREE.Scene();
 let bee;
 let mixer;
 const loader = new GLTFLoader();
-loader.load('/wasp/demon_bee_full_texture.glb',
-    function (gltf) {
-        bee = gltf.scene;
-        scene.add(bee);
-
-        mixer = new THREE.AnimationMixer(bee);
-        mixer.clipAction(gltf.animations[0]).play();
-        modelMove();
-    },
-    function (xhr) {},
-    function (error) {}
+// console.log(new URL('./demon_bee_full_texture.glb', import.meta.url).href);
+loader.load(
+  new URL('./demon_bee_full_texture.glb', import.meta.url).href,
+  (gltf) => {
+    scene.add(gltf.scene);
+  },
+  undefined,
+  (error) => {
+    console.error("Model failed to load:", error);
+  }
 );
+// loader.load('/wasp/demon_bee_full_texture.glb',
+//     function (gltf) {
+//         bee = gltf.scene;
+//         scene.add(bee);
+
+//         mixer = new THREE.AnimationMixer(bee);
+//         mixer.clipAction(gltf.animations[0]).play();
+//         modelMove();
+//     },
+//     function (xhr) {},
+//     function (error) {}
+// );
+
 const renderer = new THREE.WebGLRenderer({alpha: true});
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.getElementById('container3D').appendChild(renderer.domElement);
