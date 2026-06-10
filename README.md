@@ -62,6 +62,12 @@ The website combines creativity with interactivity to deliver a seamless, engagi
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Darsyn</sub>
-</div> 
+## 📝 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License · Copyright (c) 2026 DARSYN
+```
+
+<div align="center"> Made with ❤️ by <a href="https://github.com/DE-IGNIS" target="_blank">Darsyn</a> </div>
